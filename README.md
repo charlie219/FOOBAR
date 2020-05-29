@@ -91,26 +91,7 @@
 	<h1>FOOBAR COMPLETED</H1>
 	<img src="https://github.com/charlie219/FOOBAR/blob/master/Bunny%20dance.png" alt="Bunny dance" height='100%' width='100%'>
 	<br><br>
-<h2>If you like this repo, Consider giving it a star and endorse me in <a href="https://www.linkedin.com/in/akash-kumar-akay/">LinkedIn</a></h2>
+<h2>If you like this repo, Consider giving it a star and endorse me on <a href="https://www.linkedin.com/in/akash-kumar-akay/">LinkedIn</a></h2>
 <h2>Thank You</h2>
-	
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
    
