@@ -23,9 +23,7 @@ def concat():
     global str_prime
     for i in prime:
         str_prime+=str(i)
-        if(len(str_prime)>=10000):
-            print("*",i)
-            break
+        
 def solution(i):
     Sieve()
     concat()
