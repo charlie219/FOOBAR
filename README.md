@@ -1,6 +1,6 @@
 <b><h1><U> FOOBAR 2020</U></h1></b>
-<h4> HEY FOLKS,
-  This repository consists of the Python code i made during the <B><u><a href="https://www.google.com/search?sxsrf=ALeKk00pH9R9bep3COyYcLvfL9HjDPSzyw%3A1590734709271&ei=da_QXq2UEIf0rQHpo5CoAw&q=what+is+foobar+challenge&oq=what+is+foobar&gs_lcp=CgZwc3ktYWIQAxgCMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgAEEc6BAgjECc6BQgAEIsDOgQIABBDOgoIABCDARBDEIsDOgcIIxDqAhAnOgcIABBDEIsDOgcIABAKEIsDOggIABCRAhCLAzoHCAAQFBCHAjoICAAQgwEQiwM6BQgAEJECOgQIABAKUML7IljUtSNg7c4jaARwA3gEgAHrAogB0imSAQYyLTE3LjOYAQCgAQGqAQdnd3Mtd2l6sAEKuAEC&sclient=psy-ab">FOOBAR CHALLENGE</a></u></b>. I had also brief the approch and algorithm I used in that questions.</h4>
+<h4> Hay Folks!!,
+  This repository consists of the Python code I made during the <B><u><a href="https://www.google.com/search?sxsrf=ALeKk00pH9R9bep3COyYcLvfL9HjDPSzyw%3A1590734709271&ei=da_QXq2UEIf0rQHpo5CoAw&q=what+is+foobar+challenge&oq=what+is+foobar&gs_lcp=CgZwc3ktYWIQAxgCMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgAEEc6BAgjECc6BQgAEIsDOgQIABBDOgoIABCDARBDEIsDOgcIIxDqAhAnOgcIABBDEIsDOgcIABAKEIsDOggIABCRAhCLAzoHCAAQFBCHAjoICAAQgwEQiwM6BQgAEJECOgQIABAKUML7IljUtSNg7c4jaARwA3gEgAHrAogB0imSAQYyLTE3LjOYAQCgAQGqAQdnd3Mtd2l6sAEKuAEC&sclient=psy-ab">FOOBAR CHALLENGE</a></u></b>. I had also given a brief idea about the approch and algorithm I used in those questions.</h4>
   
   <U><h2><a href="https://github.com/charlie219/FOOBAR/tree/master/LEVEL%201">LEVEL 1</a></H2></U>
   <UL>
